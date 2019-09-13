@@ -12,6 +12,21 @@
   "source": {
     "http": "https://github.com/hetian9288/mySpecsFiles/raw/master/alipay.zip"
   },
+  "frameworks": [
+    "UIKit",
+    "Foundation",
+    "CFNetwork",
+    "SystemConfiguration",
+    "QuartzCore",
+    "CoreGraphics",
+    "CoreMotion",
+    "CoreTelephony",
+    "CoreText"
+  ],
+  "libraries": [
+    "c++",
+    "z"
+  ]
   "summary": "alipaySDK 去掉 UUID",
   "vendored_frameworks": "alipay/*.framework",
   "version": "15.6.5"
