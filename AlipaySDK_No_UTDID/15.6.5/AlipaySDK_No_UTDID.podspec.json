@@ -1,0 +1,18 @@
+{
+  "authors": {
+    "hetian9288": "hetian@hetian.me"
+  },
+  "description": "alipaySDK 去掉 UUID",
+  "homepage": "https://github.com/hetian9288/mySpecs",
+  "name": "AlipaySDK_No_UTDID",
+  "platforms": {},
+  "preserve_paths": "alipay/*.framework/*",
+  "requires_arc": true,
+  "resources": "alipay/*.bundle",
+  "source": {
+    "http": "https://github.com/hetian9288/mySpecsFiles/raw/master/alipay.zip"
+  },
+  "summary": "alipaySDK 去掉 UUID",
+  "vendored_frameworks": "alipay/*.framework",
+  "version": "15.6.5"
+}
