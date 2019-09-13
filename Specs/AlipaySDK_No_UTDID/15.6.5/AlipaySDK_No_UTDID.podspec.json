@@ -10,7 +10,7 @@
   "requires_arc": true,
   "resources": "alipay/*.bundle",
   "source": {
-    "http": "https://github.com/hetian9288/mySpecsFiles/raw/master/alipay.zip"
+    "http": "https://raw.githubusercontent.com/hetian9288/mySpecsFiles/master/alipay.zip"
   },
   "frameworks": [
     "UIKit",
